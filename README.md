@@ -1,9 +1,10 @@
 # MirimAndroidClass
 * http cat(https://http.cat/) 을 활용한 랜덤 결과 보여주는 앱 제작!!
+* [소개영상 보기](https://youtu.be/Niv-Mgfk96Y)
 
 ## 기획
- 1. GitHub에 프로젝트 생성
- 2. 마일스톤 생성, 플랜 계획 잡기. 이슈 생성
+ 1. [GitHub에 프로젝트 생성](https://youtu.be/vxIyPoBFxA0)
+ 2. [마일스톤 생성](https://youtu.be/2ZGnyrC7d9Y), 플랜 계획 잡기. 이슈 생성
  3. 앱 기획 - "카카오 오븐"을 활용한 프로토타이핑 목업 
  4. 위 목업을 바탕으로 작업 프로젝트 생성, 이슈 생성
 
